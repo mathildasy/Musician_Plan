@@ -1,0 +1,3 @@
+pydub==0.25.1
+PyAudio==0.2.11
+librosa==2.1.0
