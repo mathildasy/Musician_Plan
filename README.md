@@ -17,4 +17,5 @@ python beat-detect.py {Relative Path to the WAV file} # python beat-detect.py "m
 
 ## Demo
 
-https://github.com/mathildasy/Musician_Plan/blob/main/demo.mp4
+![Demo: One Last Kiss](demo.mp4)
+
