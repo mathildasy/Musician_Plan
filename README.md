@@ -14,3 +14,7 @@ pip install -r requirements.txt
 ```{python}
 python beat-detect.py {Relative Path to the WAV file} # python beat-detect.py "music/One Last Kiss.wav"
 ```
+
+## Demo
+
+https://github.com/mathildasy/Musician_Plan/blob/main/demo.mp4
